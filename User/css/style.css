@@ -1,0 +1,234 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.mynavbar{
+    background-image: linear-gradient(to right, #4275FA,#1102C6);
+}
+
+.nav-link {
+    color: white;
+    font-size: 18px;
+    margin-left: 35px;
+}
+
+.navbar-toggler{
+    color: #FFFFFF;
+}
+.navbar-toggler-icon{
+    color: #FFFFFF;
+}
+
+.nav-link:hover{
+    color: rgb(255, 255, 255);
+}
+
+.navbar-brand {
+    color: white;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.banner {
+    padding-top: 8rem;
+    background-image: linear-gradient(to right, #4275FA,#1102C6);
+    color: white;
+}
+
+.main-title {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.main-btn {
+    font-size: 18px;
+    font-weight:600;
+    text-decoration: none;
+    color: #4275FA;
+    background-color: #ffffff;
+    padding: 15px 50px;
+    border-radius: 35px;
+}
+
+.btn-record{
+    color: #ffffff;
+    background-color: #4275FA;
+    padding: 10px 35px;
+    border-radius: 35px;
+    border: none;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.voice-tt{
+    background-color: #3642DE;
+    color: white;
+    padding-bottom: 50px;
+}
+
+.box{
+    width:100%;
+    height: auto;
+    background:#FFFFFF;
+    border-radius: 30px;
+    color: black;
+}
+
+.box p{
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+}
+
+.result{
+    padding-left: 50px;
+}
+
+.result a{
+    color: #ff0000;
+}
+
+.result li{
+    padding-bottom: 20px;
+}
+
+.aboutus-img {
+    margin-left: -330px;
+}
+
+.conselor-info{
+    background-image: url('/User/images/bg-img-contact.png');
+    background-size:cover; 
+    color: white;
+}
+
+.conselor-text{
+    padding-left: 4rem;
+    margin-bottom: 80px;
+
+}
+.conselor-text p{
+    padding-bottom: 15px;
+}
+
+.subtitle-style {
+    color: #4275FA;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.title-style {
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.title-form{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.p-style {
+    color: #666666;
+    font-size: 18px;
+    line-height: 1.55;
+}
+
+.link-style {
+    font-weight: 700;
+    color: black;
+}
+
+.service-image {
+    border-radius: 50%;
+    background-color: rgb(243, 249, 251);
+    margin-top: 35px;
+}
+
+.service-img {
+    margin-top: -100px;
+}
+
+.service-icon {
+    background-color: #6c63ff;
+    padding: 15px;
+    width: 55px;
+    border-radius: 50%;
+}
+
+.full-width-seciton {
+    background-color: rgb(243, 249, 251);
+}
+
+
+
+.why-choose-img {
+    margin-left: -125px;
+}
+
+.mycard {
+    border-bottom: 3px solid #4275FA;
+}
+
+.feature-icon {
+    width: 60px;
+    border-radius: 50%;
+    background-color: #6c63ff;
+    height: 60px;
+    line-height: 3.5;
+    text-align: center;
+
+}
+
+.totop {
+    padding: 12px 15px;
+    background-color: #4275FA;
+    color: white;
+    border-radius: 5px;
+    position: sticky;
+    bottom: 20px;
+    float: right;
+    right: 10px;
+    /* transition: 2s all ease; */
+}
+
+.blog-link {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.blog-card img{
+    transition: all .4s ease-in-out;
+}
+
+.blog-card:hover img {
+    transform: scale(1.1)rotate(-5deg);
+}
+
+.mycard{
+    transition: all 0.4s;
+}
+
+.mycard:hover{
+    margin-top: -20px;
+}
+
+
+.service-icon{
+    transition: all 0.4s;
+}
+
+.service-card:hover .service-icon{
+    margin-left: 30px;
+}
+
+footer{
+    background-color: #3642DE;
+    text-align: center;
+    color: white;
+    padding: 1.5rem;
+    margin-top: auto;
+}

@@ -1,0 +1,12 @@
+
+body{
+    background-image: url('/images/bg_login.svg');
+    background-repeat: no-repeat;
+    background-size: 55%;
+}
+
+a {
+    text-decoration:none;
+    color: black;
+    font-weight:600;
+}
